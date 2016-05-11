@@ -21,7 +21,7 @@
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    NSLog(@"老板威武");
+    NSLog(@"老板威武,给加薪");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
