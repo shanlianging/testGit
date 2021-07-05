@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
+    // test 1
+    NSLog(@"test1");
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
