@@ -19,6 +19,8 @@
     
     // test 1
     NSLog(@"test1");
+    // test 2
+    NSLog(@"test2");
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
